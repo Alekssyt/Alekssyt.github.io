@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
       // Aquí puedes añadir validación si es necesario
   
       // Redirige a la página después de iniciar sesión
-      window.location.href = "https://sites.google.com/view/harmonystudios/inicio?authuser=3";
+      window.location.href = "https://sites.google.com/view/harmonystudios/gracias?authuser=0";
     });
   });
   
